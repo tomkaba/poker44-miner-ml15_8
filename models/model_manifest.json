@@ -6,7 +6,7 @@
     "framework": "pytorch-torchscript",
     "license": "MIT",
     "repo_url": "https://github.com/tomkaba/poker44-miner-ml15_8",
-    "repo_commit": "f48836e1159e8fe860a38425f13ecbb197411af4",
+    "repo_commit": "9f6ec05d5fd110a063c09e5bda3932f20341f1cb",
     "inference_mode": "local",
     "training_data_statement": "Trained with benchmark groundtruth",
     "data_attestation": "This miner does not train on validator-private human data.",
@@ -23,6 +23,6 @@
         "poker44/utils/model_manifest.py",
         "poker44/validator/synapse.py"
     ],
-    "implementation_sha256": "263d997f7d103c328f415d863d52e5a85bb9880713daba27b8ed80065e1dd811",
+    "implementation_sha256": "3787b1d0405bb0a7d84864cbe0b1735a2f87ed763f722f06ddd96dd8a9584ee5",
     "notes": "Gen15-8 neural network scorer (artifact gen15_9_aaf8_boff_997_hardened)."
 }
